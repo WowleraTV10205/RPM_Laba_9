@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Valera/Desktop/RPM_Laba_9/getline.h
+iostream
+-
+cstring
+-
+
+C:/Users/Valera/Desktop/RPM_Laba_9/main.cpp
+vector
+-
+fstream
+-
+string
+-
+sstream
+-
+cstring
+-
+getline.h
+C:/Users/Valera/Desktop/RPM_Laba_9/getline.h
+
